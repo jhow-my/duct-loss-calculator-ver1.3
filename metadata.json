@@ -1,0 +1,6 @@
+{
+  "name": "Duct Loss Calculator 260925 ver1.3 (to Gibhub)",
+  "description": "An intelligent HVAC duct fitting loss calculator. Estimate pressure drops and visualize system curves using ASHRAE database methods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
